@@ -34,6 +34,12 @@ The dataset used in this project is `candy-data.csv`, which contains various att
 *   The formed clusters represent groups of candies with similar attributes, such as chocolatey bars, fruity hard candies, etc.
 *   Comparing these clusters to candies from a different region (like Argentina) would require similar attribute data for those candies and could reveal interesting similarities or differences in candy preferences and characteristics across regions.
 
+  <img width="813" height="601" alt="image" src="https://github.com/user-attachments/assets/d1f305a0-c635-4817-bc46-0007893805cc" />
+
+
+<img width="813" height="601" alt="image" src="https://github.com/user-attachments/assets/b28f2e55-53a2-40e5-900e-2ae15fdf9ddd" />
+
+
 ## How to Use
 
 This project is implemented as a Python notebook. To run the analysis:

@@ -39,4 +39,4 @@ The dataset used in this project is `candy-data.csv`, which contains various att
 This project is implemented as a Python notebook. To run the analysis:
 
 1.  Clone this repository.
-2.  Ensure you have the necessary libraries installed (`pandas`, `scikit-learn`, `matplotlib`, `scipy`). You can install them using pip:
+2.  Ensure you have the necessary libraries installed (`pandas`, `scikit-learn`, `matplotlib`, `scipy`). 
